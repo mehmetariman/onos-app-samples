@@ -1,0 +1,3 @@
+[submodule "fatcam"]
+	path = fatcam
+	url = git@github.com:mehmetariman/fatcam.git
